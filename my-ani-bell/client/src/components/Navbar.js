@@ -6,4 +6,3 @@ import './style.css';
 
 //i love andrea<3
 
-const Navbar = () => {
